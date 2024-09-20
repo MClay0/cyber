@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="12" master_id="0" name="SMB" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726840313" ts_lastsave="1726840375">
+    <rich_text>Server Message Block
+	- Potentially vulnerable to RCE attacks like EternalBlue</rich_text>
+  </node>
+</cherrytree>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="3" master_id="0" name="Common Ports and Protocols" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726771323" ts_lastsave="1726839946">
+    <rich_text>Common Ports and Protocols
+        20/21 (TCP)	FTP
+        22 (TCP)	SSH
+        23 (TCP)	Telnet
+        25 (TCP)	SMTP
+        80 (TCP)	HTTP
+        161 (TCP/UDP)	SNMP
+        389 (TCP/UDP)	LDAP
+        443 (TCP)	SSL/TLS (HTTPS)
+        445 (TCP)	SMB
+        3389 (TCP)	RDP
+       
+3389 is the default port for Remote Desktop Services and is a good indicator the machine being scanned is running windows
+
+</rich_text>
+  </node>
+</cherrytree>

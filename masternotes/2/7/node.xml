@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="7" master_id="0" name="Netcat" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726771729" ts_lastsave="1726772118">
+    <rich_text>Netcat, ncat, or nc
+
+Used for interacting with TCP/UDP ports
+
+Can be used to connect with any listening port and interact with the services running on those ports
+
+socat is another alternative that has a few more features
+
+</rich_text>
+  </node>
+</cherrytree>

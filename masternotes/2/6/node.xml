@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="6" master_id="0" name="SSH" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726771722" ts_lastsave="1726771941">
+    <rich_text>Secure Shell
+
+Runs on port 22 by default
+
+Allows you to access a computer remotely
+
+SSH connect command
+	ssh bob@10.10.10 (username@remoteserverip)
+	
+</rich_text>
+  </node>
+</cherrytree>

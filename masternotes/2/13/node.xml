@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="13" master_id="0" name="GoBuster / ffuf" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726856958" ts_lastsave="1726857129">
+    <rich_text>GoBuster and ffuf brute force many common webpage extensions to try to find hidden sites
+
+GoBuster syntax:
+	$ gobuster dir -u </rich_text>
+    <rich_text link="webs http://10.10.10.121/">http://10.10.10.121/</rich_text>
+    <rich_text> -w /usr/share/seclists/Discovery/Web-Content/common.txt
+	gobsuter calls the gobuster tool, dir specifies a directory attack, -w specifies the use of a wordlist, path to wordlist
+	
+	200 means request was approved 
+	403 indicates access forbidden
+	301 indicates a redirection
+	</rich_text>
+  </node>
+</cherrytree>

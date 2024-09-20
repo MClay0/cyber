@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="10" master_id="0" name="nmap" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1726772250" ts_lastsave="1726840138">
+    <rich_text>Will by default only scan the 1000 default ports
+
+Default scan will be a TCP scan
+
+-sC tells nmap to try to find more detailed info
+-sV version scan
+-p- tells nmap to scan all 65,535 ports
+
+
+Banner Grabbing
+	- 
+</rich_text>
+  </node>
+</cherrytree>
